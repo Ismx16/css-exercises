@@ -1,1 +1,23 @@
 /* Add CSS Styling */
+
+.pinkbg {
+    font-family: verdana, DejaVu Sans, sans-serif;
+    background-color: pink;
+}
+
+.n2 {
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+}
+
+.n3 {
+    font-size: 36px;
+}
+
+.n4 {
+    background-color: lightgreen;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    font-weight: bold;
+}
